@@ -8,6 +8,11 @@
   - Now run the program and paste the ID when asked.
   - Enjoy the free WARP+ GBs!!
 
+# How to Run & install Required PKG : 
 ```
-sudo apt install python && sudo pip install httpx && sudo
+sudo apt install python && sudo apt install python3 && sudo pip install httpx && sudo git clone https://github.com/FReak4L/warp-plus.git && cd warp-plus && python3 main.py
+```
+# Run Without install Required PKG : 
+```
+sudo git clone https://github.com/FReak4L/warp-plus.git && cd warp-plus && python3 main.py
 ```
