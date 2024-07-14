@@ -19,12 +19,12 @@ sudo git clone https://github.com/FReak4L/warp-plus.git && cd warp-plus && pytho
 ```
 
 <h3>How to do it: </h3>
-    <b>- Open the app and just connect to 1.1.1.1 (by clicking the button in the middle) if you haven't done it yet.</b>
-    <b>- Now click the sandwich button on the right top of the screen.</b>
-     <b>- Then click Advanced.</b>
-     <b>- Now click Diagnostics and long press the ID under "CLIENT CONFIGURATION" and copy it. </b>
-     <b>- Now run the program and paste the ID when asked. </b>
-    <b>- Enjoy the free WARP+ GBs!! </b>
+    <br><b>- Open the app and just connect to 1.1.1.1 (by clicking the button in the middle) if you haven't done it yet.</b></br>
+    <br><b>- Now click the sandwich button on the right top of the screen.</b></br>
+     <br><b>- Then click Advanced.</b></br>
+     <br><b>- Now click Diagnostics and long press the ID under "CLIENT CONFIGURATION" and copy it. </b></br>
+     <br><b>- Now run the program and paste the ID when asked. </b></br>
+    <br><b>- Enjoy the free WARP+ GBs!! </b></br>
 
 
 <h3><a href="https://t.me/FreakXray"> Telegram Freak Xray </a></h3>
