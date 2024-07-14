@@ -8,3 +8,6 @@
   - Now run the program and paste the ID when asked.
   - Enjoy the free WARP+ GBs!!
 
+```
+sudo apt install python && sudo pip install httpx && sudo
+```
