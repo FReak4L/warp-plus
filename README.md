@@ -16,3 +16,7 @@ sudo apt install python3 && sudo pip install httpx && sudo git clone https://git
 ```
 sudo git clone https://github.com/FReak4L/warp-plus.git && cd warp-plus && python3 main.py
 ```
+# Run without Clone :
+```
+cd warp-plus && python3 main.py
+```
