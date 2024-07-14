@@ -32,13 +32,13 @@ os.system('cls' if os.name == 'nt' else 'clear')
 print("[+] ABOUT SCRIPT:")
 print("[-] With this script, you can obtain unlimited WARP+ referral data.")
 print(f"[-] Version: {script_version}")
-print("[♡] Made with ♡ by Navaneeth K M (nxvvvv)")
+print("[♡] Forked by FReak4L - join Telegram : @FreakXRAY")
 print("--------")
 
 # Initialize user settings
 referrer = ""
-min_interval = 10  # Default minimum request interval (seconds)
-max_interval = 60  # Default maximum request interval (seconds)
+min_interval = 7  # Default minimum request interval (seconds)
+max_interval = 12  # Default maximum request interval (seconds)
 save_file = "warp.sav"
 stop_flag = False
 
