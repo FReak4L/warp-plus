@@ -9,7 +9,7 @@
 <p>1. install Requireds :</p>
 
 ```
-sudo apt install python3 && sudo pip install httpx
+sudo apt install python3 && pip install httpx
 ```
 
 <p>2. Clone &amp; RUN</p>
